@@ -124,9 +124,9 @@ The **table folder** in this repo contains drawings and CAD for the custom table
 - **Electronics Box**: Attached for quick maintenance or part upgrades.
 - **Ergonomics**: You can operate the CNC from a low chair or stool. The top surface comfortably supports multiple 3D printers or other equipment.
 
-![Table Build Image](img\table\IMG_8248.JPEG)
-![Table Build Image](img\table\IMG_8511.JPEG)
-![Table Build Image](img\table\IMG_8512.JPEG)
+[![Table Build Image](img\table\IMG_8248.JPEG)](img\table\IMG_8248.JPEG)
+[![Table Build Image](img\table\IMG_8511.JPEG)](img\table\IMG_8511.JPEG)
+[![Table Build Image](img\table\IMG_8512.JPEG)](img\table\IMG_8512.JPEG)
 > **Tip**: Consider additional bracing if you plan to mount heavy equipment on the tabletop. Also, be mindful of ventilation and dust extraction routing.
 
 ---
@@ -154,8 +154,8 @@ Inside the `STL` folder, you will also find the **electronics box** model:
 - **Wiring Pass-Through**: There is a dedicated hole for cables to pass from the box to the CNC’s underside.
 - **TFT Display**: The top panel includes mounts for a TFT display case. This positions your control interface at a convenient height.
 
-![Electronics Box Image](img\final\IMG_9030.JPEG)
-![Electronics Box Image](img\final\IMG_9029.JPEG)
+[![Electronics Box Image](img\final\IMG_9030.JPEG)](img\final\IMG_9030.JPEG)
+[![Electronics Box Image](img\final\IMG_9029.JPEG)](img\final\IMG_9029.JPEG)
 
 > **Note**: Proper cable management (e.g., drag chains, cable ties) will enhance safety
 
@@ -172,7 +172,6 @@ For a detailed walkthrough of my build and the modifications I applied, see the 
 - **Firmware** (Configuration files, custom macros).
 - **Enclosure** (Table design, acoustic treatments).
 
-![Build Image](img\build\IMG_8154.JPEG)
-
+[![Build Image](img\build\IMG_8154.JPEG)](img\build\IMG_8154.JPEG)
 ---
 
