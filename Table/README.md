@@ -6,5 +6,6 @@ This directory contains the CAD files and drawings for the enclosure of the MPCN
 - **Drawings**: Detailed technical drawings with dimensions and specifications.  
 
 ## Usage  
-[![Table](img\complete.png)](img\complete.png) 
-[![Table](img\with-base.png)](img\with-base.png) 
+[![Table](img/complete.png)](img/complete.png) 
+[![Table](img/with-base.png)](img/with-base.png) 
+
